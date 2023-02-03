@@ -1,0 +1,11 @@
+.formData > * {
+  display: block;
+  margin: 10px;
+}
+.formData > input {
+  padding: 10px;
+}
+.saveButton {
+  padding: 10px;
+  margin: 10px;
+}
